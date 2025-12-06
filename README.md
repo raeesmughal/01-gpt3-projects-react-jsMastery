@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,6 +71,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 ## Modern UI/UX GPT-3
 
-<img src="img.png" alt="homepage screenshot" width="100%">
+<img src="img.png" alt="homepage" width="100%">
 
 [video](https://www.youtube.com/watch?v=F627pKNUCVQ&amp;t=808s)
