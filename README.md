@@ -75,4 +75,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 <img src="img.png" alt="homepage screenshot" width="100%">
 
 [video](https://www.youtube.com/watch?v=F627pKNUCVQ&amp;t=808s)
->>>>>>> 97025fa8ee1a3b2d219d4cc076e79da88d19c3f9
